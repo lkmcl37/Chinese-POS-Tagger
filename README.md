@@ -1,2 +1,2 @@
-# Chinese-POS-Tagger.
-Simple Chinese Part-of-Speech Tagger based on Viterbi Algorithm,
+# Chinese-POS-Tagger
+A Java implementation of the Viterbi algorithm for Chinese POS tagging.
