@@ -228,7 +228,7 @@ public class WordsPropAnalysis {
 			System.out.println("error, please retry");
 		}
 		
-		System.out.println("Total Word Count£º" + sw);
+		System.out.println("Total Word Count" + sw);
 		System.out.println("The results have been output to Output.txt");
 	}
 }
